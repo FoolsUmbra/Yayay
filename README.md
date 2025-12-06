@@ -48,4 +48,6 @@ en hits ese logo de arriba y le dad a ver galería podrás ver más hits iguales
 <img src="https://komarev.com/ghpvc/?username=sproutsona=flat-square&color=DB8683&label=info+++"/>
 <!-- en este solo podrás cambiar el color de la derecha no el de la izquierda en color solo pon el código y el label donde dice info lo cambias por algún nombre que queras poner-->
 
-<!-- el de spotify solo lo tendrás que buscar en Google o entra a este link copiado y pegalo->
+<!-- el de spotify solo lo tendrás que buscar en Google o entra a este link copiado y pegalo-->
+https://github.com/kittinan/spotify-github-profile
+<!--ok... hasta aquí se algunos comandos-->
