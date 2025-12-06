@@ -50,4 +50,5 @@ en hits ese logo de arriba y le dad a ver galería podrás ver más hits iguales
 
 <!-- el de spotify solo lo tendrás que buscar en Google o entra a este link copiado y pegalo-->
 https://github.com/kittinan/spotify-github-profile
+<!-- entra al link que esta alli-->
 <!--ok... hasta aquí se algunos comandos-->
